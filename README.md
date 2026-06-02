@@ -24,4 +24,3 @@ Data Source
 
 National Statistics Office Malta - Motor Vehicles Q4 2025
 
-Dashboard Preview
